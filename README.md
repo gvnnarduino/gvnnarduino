@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gvnnarduino
+- 👀 I’m interested in Robotics and Automation.
+- 🌱 I’m currently learning ROS
